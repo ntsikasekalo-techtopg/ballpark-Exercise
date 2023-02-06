@@ -1,2 +1,2 @@
 # ballpark-Exercise
-an exercise from solo learn - solved in c
+## An exercise from solo learn - solved in c
